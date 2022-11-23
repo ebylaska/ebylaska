@@ -2,7 +2,7 @@
 - 👀 I’m developing 
   + :microscope: plane-wave electronic structure methods, 
   + ✨periodic and aperiodic plane-wave many-body approaches✨, 
-  + :robot: chemical workflows methods, 
+  + :robot: chemical workflow methods, 
   + and :tv: visualization tools. 
 - 	:seedling: I’m interested in chemical reaction networks and the development of tools to model and interpret them.
 - :writing_hand: I'm currently learning how to derive DFPT and CPHF derivatives.
