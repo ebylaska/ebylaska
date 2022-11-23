@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ebylaska
+- 👋 Hi, I’m @ebylaska.  I
+-  :scientist: I work as a physical chemist.
 - 👀 I’m developing 
   + :microscope: plane-wave electronic structure methods, 
   + ✨periodic and aperiodic plane-wave many-body approaches✨, 
@@ -7,7 +8,7 @@
 - 	:seedling: I’m interested in chemical reaction networks and the development of tools to model and interpret them.
 - :writing_hand: I'm currently learning how to derive DFPT and CPHF derivatives.
 - 💞️ I’m looking to collaborate on testing the aperiodic and periodic COVOs methods.
-- 📫 How to reach me is at eric.bylaska@pnnl.gov
+- 📫 How to reach me is at eric.bylaska@pnnl.gov.
 
 <!---
 ebylaska/ebylaska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
