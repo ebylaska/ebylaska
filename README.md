@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ebylaska.  I
+- 👋 Hi, I’m @ebylaska.
 -  :scientist: I work as a physical chemist.
 - 👀 I’m developing 
   + :microscope: plane-wave electronic structure methods, 
